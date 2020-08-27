@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Wed Aug 26 18:45:24 2020 as: nmap -Pn -oG temp 130.145.8.25
+Host: 130.145.8.25 ()	Status: Up
+Host: 130.145.8.25 ()	Status: Up
+# Nmap done at Wed Aug 26 18:48:55 2020 -- 1 IP address (1 host up) scanned in 211.12 seconds

@@ -1,0 +1,13 @@
+130.145.8.24,UP,80,open,tcp,http
+130.145.8.24,UP,135,open,tcp,msrpc
+130.145.8.24,UP,139,open,tcp,netbios-ssn
+130.145.8.24,UP,445,open,tcp,microsoft-ds
+130.145.8.24,UP,1433,open,tcp,ms-sql-s
+130.145.8.24,UP,3389,open,tcp,ms-wbt-server
+130.145.8.24,UP,49152,open,tcp,unknown
+130.145.8.24,UP,49153,open,tcp,unknown
+130.145.8.24,UP,49154,open,tcp,unknown
+130.145.8.24,UP,49155,open,tcp,unknown
+130.145.8.24,UP,49156,open,tcp,unknown
+130.145.8.24,UP,49157,open,tcp,unknown
+130.145.8.25,UP
